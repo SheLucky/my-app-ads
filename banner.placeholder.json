@@ -1,4 +1,6 @@
 {
   "image_url": "https://raw.githubusercontent.com/SheLucky/my-app-ads/main/banner-placeholder.webp",
-  "is_live": false
+  "is_live": false,
+  "click_action_type": "open_browser",
+  "target_url": "https://github.com/SheLucky/my-app-ads"
 }
